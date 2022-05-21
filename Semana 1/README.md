@@ -41,15 +41,15 @@
 
 ## Trabalho realizado na Semana 1
 
- - Tradução e padronização dos rótulos das colunas do Data Frame: todos agoram escritos em minúsculo, usando underscore como separador
+ - Tradução e padronização dos rótulos das colunas do Data Frame: todos estão escritos em minúsculo, usando underscore como separador
  - Normalização dos demais campos presentes no arquivo json, facilitando sua exploração, visualização e análise
- - Tradução para PT-BR de todos os valores presentes na base de dados limpa
+ - Tradução para PT-BR de todos os valores presentes na base de dados já limpa
  - Limpeza de dados nulos na coluna `churn`, representando aproximadamente 3% dos dados originais
  - Substituição dos valores 0/1 para a coluna `idoso` para Sim/Não, seguindo o padrão das demais colunas
  - Conversão de valores do tipo `string` para `float` na coluna `custo_total`
  - Cálculo para os valores inexistentes na coluna `custo_total`, obtidos de 11 clientes que ainda não haviam completado 1 mês de contrato com a Alura Vox
  - Criação da coluna `custo_diario`, inserido antes das colunas `custo_mensal` e `custo_total`
- - Por fim, tudo foi salvo num [novo arquivo json](https://github.com/dan-alvares/Desafio-Data-Science-Alura/blob/main/dados_churn_clean.json) com os dados limpos, padronizados e traduzidos
+ - Por fim, tudo foi salvo num [novo arquivo json](https://github.com/dan-alvares/Desafio-Data-Science-Alura/blob/main/Semana%201/dados_churn_clean.json) com os dados limpos, padronizados e traduzidos
  
  
 ## Autores
