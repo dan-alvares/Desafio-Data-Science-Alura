@@ -1,5 +1,4 @@
-![Logo](https://github.com/sthemonica/alura-voz/blob/main/logos-alura%20voz/Logo%20Alura%20Voz-01.png)
-
+<img src="https://github.com/sthemonica/alura-voz/blob/main/logos-alura%20voz/Logo%20Alura%20Voz-01.png" alt="Alura Voc" height="160"/>
 
 
 ## Base de Dados e Dicionário de Dados
