@@ -30,8 +30,11 @@ Após uma reunião com a equipe de vendas, você recebeu a base de dados dos cli
  
 ## Tarefas da Semana 2
 
-Work in Progress:
-Em breve será atualizado!
+ - Analisar a variável target `churn`
+ - Visualizar a distribuição da variável target `churn`
+ - Criar visualizações da variável target `churn`
+ - Analisar a correlação das variáveis da base de dados
+ - Testar diferentes tipos de gráficos
 
 ## Tarefas da Semana 3/4
 
