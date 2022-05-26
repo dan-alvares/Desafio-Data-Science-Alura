@@ -56,4 +56,4 @@
 
 - [@dan-alvares](https://www.github.com/dan-alvares)
 
-![Badge Job Done](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)  :heavy_check_mark:
+![Badge Job Done](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)

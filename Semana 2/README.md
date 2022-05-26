@@ -3,7 +3,7 @@
 
 ## Base de Dados e Dicionário de Dados
 
- - [Base de Dados Limpa](https://github.com/dan-alvares/Desafio-Data-Science-Alura/blob/main/Semana%202/dados_churn_clean.json)
+ - [Base de Dados Limpa](https://github.com/dan-alvares/Desafio-Data-Science-Alura/blob/main/Semana%202/dados_churn_clean.json) :heavy_check_mark:
 
 
 ## Trabalho realizado na Semana 2
@@ -19,4 +19,4 @@
 
 - [@dan-alvares](https://www.github.com/dan-alvares)
 
-![Badge Job Done](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)  :heavy_check_mark:
+![Badge Job Done](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
