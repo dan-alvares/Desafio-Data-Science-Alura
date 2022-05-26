@@ -17,29 +17,34 @@ Após uma reunião com a equipe de vendas, você recebeu a base de dados dos cli
 
  - [Lançamento da Semana 1](https://www.alura.com.br/challenges/data-science/semana-01-primeiros-passos-data-science): 09/05/2022
  - [Lançamento da Semana 2](https://www.alura.com.br/challenges/data-science/semana-02-explorando-os-dados): 16/05/2022
- - Lançamento da Semana 3 e 4: 23/05/2022
+ - [Lançamento da Semana 3 e 4](https://www.alura.com.br/challenges/data-science/semana-03-04-exterminando-o-futuro): 23/05/2022
 
 ## Tarefas da Semana 1
 
-- Entender quais informações a base de dados possui
-- Analisar os tipos de dados fornecidos pela API
-- Verificar quais são as inconsistências presentes nos dados obtidos
-- Corrigir as inconsistências da base de dados
-- Traduzir as colunas
-- Criar uma coluna com o cálculo dos custos diários de cada cliente
+- [x] Entender quais informações a base de dados possui
+- [x] Analisar os tipos de dados fornecidos pela API
+- [x] Verificar quais são as inconsistências presentes nos dados obtidos
+- [x] Corrigir as inconsistências da base de dados
+- [x] Traduzir as colunas
+- [x] Criar uma coluna com o cálculo dos custos diários de cada cliente
  
 ## Tarefas da Semana 2
 
- - Analisar a variável target `churn`
- - Visualizar a distribuição da variável target `churn`
- - Criar visualizações da variável target `churn`
- - Analisar a correlação das variáveis da base de dados
- - Testar diferentes tipos de gráficos
+ - [x] Analisar a variável target `churn`
+ - [x] Visualizar a distribuição da variável target `churn`
+ - [x] Criar visualizações da variável target `churn`
+ - [x] Analisar a correlação das variáveis da base de dados
+ - [x] Testar diferentes tipos de gráficos
 
 ## Tarefas da Semana 3/4
 
-Work in Progress:
-Em breve será atualizado!
+- [ ] Verificar se a variável target está balanceada (undersampling ou oversampling)
+- [ ] Aplicar encoding nos seus dados
+- [ ] Criar dois ou mais modelos de Machine Learning
+- [ ] Avaliar cada modelo utilizando métricas de ML
+- [ ] Escolher o melhor modelo (justificar a escolha)
+- [ ] Otimizar o melhor modelo
+- [ ] Verificar qual o melhor tipo de balanceamento com esses dados
  
 ## Autores
 

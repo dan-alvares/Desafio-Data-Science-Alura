@@ -8,15 +8,15 @@
 
 ## Trabalho realizado na Semana 2
 
- - Analisar a variável target `churn`
- - Visualizar a distribuição da variável target `churn`
- - Criar visualizações da variável target `churn`
- - Analisar a correlação das variáveis da base de dados
- - Testar diferentes tipos de gráficos
+ - Geração de estatística descritiva para as variáveis numéricas 
+ - Visualização da taxa de evasão `churn` através da Pie Plot
+ - Análise visual das variáveis categóricas x `churn` usando heatmaps
+ - Explorei ainda graficamente a relação de jovens e idosos, homens e mulheres com o `churn`, para facilitar a tomada de decisão
+ - Foi aplicado também matriz de correlação para os dados disponibilizados
  
  
 ## Autores
 
 - [@dan-alvares](https://www.github.com/dan-alvares)
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge Job Done](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)  :heavy_check_mark:
