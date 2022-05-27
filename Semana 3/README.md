@@ -8,8 +8,8 @@
 
 ## Tarefas da Semana 3
 
-- [ ] Verificar se a variável target está balanceada (undersampling ou oversampling)
-- [ ] Aplicar encoding nos seus dados
+- [x] Verificar se a variável target está balanceada (undersampling ou oversampling)
+- [x] Aplicar encoding nos seus dados
 - [ ] Criar dois ou mais modelos de Machine Learning
 - [ ] Avaliar cada modelo utilizando métricas de ML
 - [ ] Escolher o melhor modelo (justificar a escolha)
