@@ -36,15 +36,24 @@ Após uma reunião com a equipe de vendas, você recebeu a base de dados dos cli
  - [x] Analisar a correlação das variáveis da base de dados
  - [x] Testar diferentes tipos de gráficos
 
-## Tarefas da Semana 3/4
+## Tarefas da Semana 3
 
 - [x] Verificar se a variável target está balanceada (undersampling ou oversampling)
 - [x] Aplicar encoding nos seus dados
-- [ ] Criar dois ou mais modelos de Machine Learning
-- [ ] Avaliar cada modelo utilizando métricas de ML
-- [ ] Escolher o melhor modelo (justificar a escolha)
-- [ ] Otimizar o melhor modelo
-- [ ] Verificar qual o melhor tipo de balanceamento com esses dados
+- [x] Criar dois ou mais modelos de Machine Learning
+- [x] Avaliar cada modelo utilizando métricas de ML
+- [x] Escolher o melhor modelo (justificar a escolha)
+- [x] Otimizar o melhor modelo
+- [x] Verificar qual o melhor tipo de balanceamento com esses dados
+
+## Tarefas da Semana 4
+
+- [x] Criar um README para o projeto
+- [x] Separar os notebooks de cada semana em pastas
+- [ ] Criar um storytelling contando tudo que foi desenvolvido
+- [ ] Identificar as suas conclusões
+- [ ] Aperfeiçoar o projeto
+- [ ] Escrever um artigo no Medium
  
 ## Autores
 

@@ -10,11 +10,11 @@
 
 - [x] Verificar se a variável target está balanceada (undersampling ou oversampling)
 - [x] Aplicar encoding nos seus dados
-- [ ] Criar dois ou mais modelos de Machine Learning
-- [ ] Avaliar cada modelo utilizando métricas de ML
-- [ ] Escolher o melhor modelo (justificar a escolha)
-- [ ] Otimizar o melhor modelo
-- [ ] Verificar qual o melhor tipo de balanceamento com esses dados
+- [x] Criar dois ou mais modelos de Machine Learning
+- [x] Avaliar cada modelo utilizando métricas de ML
+- [x] Escolher o melhor modelo (justificar a escolha)
+- [x] Otimizar o melhor modelo
+- [x] Verificar qual o melhor tipo de balanceamento com esses dados
  
 ## Autores
 
